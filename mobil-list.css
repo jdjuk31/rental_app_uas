@@ -1,0 +1,23 @@
+.tombol-pesan {
+	background-color: #434343;
+	color: #ffffff;
+	border: 2px solid #FFC700;
+	border-radius: 20px;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	cursor: pointer;
+	transition: background-color 0.3s, color 0.3s;
+  }
+.tombol-pesan1 {
+	display: flex;
+	justify-content: flex-end;
+	padding: 10px;
+}  
+
+.tombol-pesan:hover {
+	background-color: #FFC700;
+	color: #000000;
+  }
